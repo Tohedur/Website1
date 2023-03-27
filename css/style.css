@@ -1,0 +1,51 @@
+h1{
+    color: #bbe307df;
+    background-color: blueviolet;
+    height: 200px;
+    font-size: 20px;
+    
+}
+p{
+    color: rgb(4, 125, 246);
+    font-weight: 800;
+    text-align: justify;
+
+}
+img{
+    width: 10%;
+}
+#beautiful{
+    font-size: 40px;
+    color: green;
+}
+#hot{
+    font-size: xx-large;
+}
+.Friend{
+    background-color: deeppink;
+    
+}
+.new{
+    width: 20px;
+}
+.win{
+    background-color: aqua;
+    color: goldenrod;
+    font-size: medium;
+    font-weight: 800;
+}
+.sup{
+    color: red;
+}
+.blog1{
+    background-color: orange;
+    border: 10px solid red;
+    border-radius: 25px;
+    margin: 2px;
+    padding: 1%;
+    width: 30%;
+    display: inline;
+}
+h3{
+    text-align: center;
+}
